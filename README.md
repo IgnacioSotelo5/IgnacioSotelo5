@@ -1,22 +1,23 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<div align="center" 
-     style="border-radius:10px; 
-            padding:20px; 
-            background: linear-gradient(135deg, #f5f7fa 0%, #e4edf5 100%);
-            margin: 20px 0;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
+<div>
+  <svg width="100%" height="100" viewBox="0 0 1200 100" xmlns="http://www.w3.org/2000/svg">
+    <rect width="1200" height="100" fill="#e4edf5" />
+    <circle cx="200" cy="50" r="30" fill="#bbdefb" opacity="0.3"/>
+    <circle cx="900" cy="20" r="40" fill="#90caf9" opacity="0.3"/>
+    <circle cx="600" cy="80" r="25" fill="#64b5f6" opacity="0.3"/>
+  </svg>
 
 # Hola, soy Ignacio Sotelo 👋  
 **Desarrollador Fullstack** · Apasionado · Autodidacta · Detallista  
 
 "Me encanta resolver problemas, aprender cada día y crear soluciones que impacten"
+
+<svg width="100%" height="100" viewBox="0 0 1200 100" xmlns="http://www.w3.org/2000/svg" style="transform: rotate(180deg);">
+    <rect width="1200" height="100" fill="#e4edf5" />
+    <circle cx="300" cy="70" r="35" fill="#bbdefb" opacity="0.3"/>
+    <circle cx="800" cy="40" r="45" fill="#90caf9" opacity="0.3"/>
+    <circle cx="500" cy="10" r="30" fill="#64b5f6" opacity="0.3"/>
+  </svg>
+</div>
 
 ## 💼 Sobre mí  
 Soy un desarrollador fullstack con enfoque en crear soluciones robustas. Curioso y autodidacta por naturaleza tanto escribiendo código como en vida personal, mi moto es fiel testigo de ello 😆🏍️. Actualmente busco **mi primera oportunidad profesional** en tecnología, con apertura a roles freelance, colaboraciones open source o cualquier proyecto desafiante que me impulse a crecer.
@@ -82,4 +83,11 @@ Me encantaría conectar para oportunidades, colaboraciones o simplemente charlar
 - **Mentalidad de crecimiento**: Siempre buscando mejorar y aprender
 
 👉 **¡Gracias por visitar mi perfil!** Siéntete libre de explorar mis repositorios y contactarme si tienes alguna pregunta o oportunidad.
+</div>
+
+
+<!-- Pie de página con color -->
+<div align="center" style="margin-top: 40px; padding: 20px; background-color: #e4edf5; border-radius: 10px;">
+  <p>💻 <strong>En constante aprendizaje y evolución como desarrollador</strong></p>
+  <p><em>Actualizado: Agosto 2025</em></p>
 </div>
