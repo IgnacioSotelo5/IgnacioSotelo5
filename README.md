@@ -1,3 +1,18 @@
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<div align="center" 
+     style="border-radius:10px; 
+            padding:20px; 
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4edf5 100%);
+            margin: 20px 0;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
+
 # Hola, soy Ignacio Sotelo 👋  
 **Desarrollador Fullstack** · Apasionado · Autodidacta · Detallista  
 
@@ -55,6 +70,9 @@ Me encantaría conectar para oportunidades, colaboraciones o simplemente charlar
 [![LinkedIn](https://img.shields.io/badge/-Conectemos_en_LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/ignaciosotelo8)
 [![Email](https://img.shields.io/badge/-Escríbeme_al_mail-D14836?logo=gmail)](mailto:ignaciosotelo8@gmail.com)
 📞 +54 9 2983 588220  
+</div> <!-- Cierre del div con fondo -->
+
+<div align="center" style="margin-top:20px;">
 
 # 💫 Valor que aporto
 
@@ -64,3 +82,4 @@ Me encantaría conectar para oportunidades, colaboraciones o simplemente charlar
 - **Mentalidad de crecimiento**: Siempre buscando mejorar y aprender
 
 👉 **¡Gracias por visitar mi perfil!** Siéntete libre de explorar mis repositorios y contactarme si tienes alguna pregunta o oportunidad.
+</div>
