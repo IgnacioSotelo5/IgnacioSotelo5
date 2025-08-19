@@ -12,7 +12,7 @@
 
 ## 💼 Sobre mí  
 
-Soy un desarrollador fullstack con enfoque en crear soluciones robustas. Curioso y autodidacta por naturaleza tanto escribiendo código como en vida personal, mi moto es fiel testigo de ello 😆🏍️. Actualmente busco **mi primera oportunidad profesional** en tecnología, con apertura a roles freelance, colaboraciones open source o cualquier proyecto desafiante que me impulse a crecer.
+Soy un desarrollador fullstack con enfoque en crear soluciones robustas. Curioso y autodidacta por naturaleza tanto escribiendo código como en mi vida personal, mi moto es fiel testigo de ello 😆🏍️. Actualmente busco **mi primera oportunidad profesional** en tecnología, con apertura a roles freelance, colaboraciones open source o cualquier proyecto desafiante que me impulse a crecer.
 
 <table>
 <tr>
