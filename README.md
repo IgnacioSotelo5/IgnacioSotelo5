@@ -1,12 +1,10 @@
 # Hola, soy Ignacio Sotelo 👋  
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366F1,100:8B5CF6&height=150&section=header&text=Desarrollador%20Fullstack&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Apasionado%20·%20Autodidacta%20·%20Detallista&descAlignY=55&descSize=18#gh-dark-mode-only" />
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366F1,100:8B5CF6&height=150&section=header&text=Desarrollador%20Fullstack&fontSize=40&fontColor=000000&fontAlignY=35&desc=Apasionado%20·%20Autodidacta%20·%20Detallista&descAlignY=55&descSize=18#gh-light-mode-only" />
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=8B5CF6&height=150&section=header&text=Desarrollador%20Fullstack&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Apasionado%20·%20Autodidacta%20·%20Detallista&descAlignY=55&descSize=18">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=6366F1&height=150&section=header&text=Desarrollador%20Fullstack&fontSize=35&fontColor=1F2937&desc=Apasionado%20·%20Autodidacta%20·%20Detallista&descSize=16">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=6366F1,:8B5CF6&height=150&section=header&text=Desarrollador%20Fullstack&fontSize=35&fontColor=1F2937&desc=Apasionado%20·%20Autodidacta%20·%20Detallista&descSize=16" alt="Header"/>
+</picture>
 </div>
 
 > *"Me encanta resolver problemas, aprender cada día y crear soluciones que impacten"*
@@ -14,7 +12,6 @@
 ---
 
 ## 💼 Sobre mí  
-
 Soy un desarrollador fullstack con enfoque en crear soluciones robustas. Curioso y autodidacta por naturaleza tanto escribiendo código como en mi vida personal, mi moto es fiel testigo de ello 😆🏍️. Actualmente busco **mi primera oportunidad profesional** en tecnología, con apertura a roles freelance, colaboraciones open source o cualquier proyecto desafiante que me impulse a crecer.
 
 <table>
@@ -29,7 +26,11 @@ Soy un desarrollador fullstack con enfoque en crear soluciones robustas. Curioso
 </td>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=IgnacioSotelo5&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="400"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=IgnacioSotelo5&show_icons=true&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=IgnacioSotelo5&show_icons=true&theme=default&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=IgnacioSotelo5&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="400"/>
+</picture>
 
 </td>
 </tr>
@@ -38,7 +39,6 @@ Soy un desarrollador fullstack con enfoque en crear soluciones robustas. Curioso
 ---
 
 ## 🧰 Tecnologías que domino  
-
 <div align="center">
 
 ### Frontend  
@@ -65,9 +65,7 @@ Soy un desarrollador fullstack con enfoque en crear soluciones robustas. Curioso
 ---
 
 ## 🚀 Proyectos que me representan  
-
 <div align="center">
-
 <table>
 <tr>
 <td width="50%">
@@ -76,7 +74,6 @@ Soy un desarrollador fullstack con enfoque en crear soluciones robustas. Curioso
 Aplicación fullstack para crear enlaces personalizados y generar códigos QR. Arquitectura monorepo con frontend y backend integrados.
 
 **🛠️ Tecnologías:** React, NestJS, MySQL, TypeScript  
-
 *💡 Lo que aprendí: Arquitectura completa, autenticación JWT, despliegue en producción*
 
 ![Link Shortener](https://img.shields.io/badge/Status-Completado-success?style=flat-square)
@@ -97,15 +94,12 @@ Solución para el negocio familiar que calcula costos de recetas y gestiona inve
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
 
 ## 🌱 Mis objetivos actuales  
-
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="25%">
@@ -134,27 +128,31 @@ Solución para el negocio familiar que calcula costos de recetas y gestiona inve
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
 
 ## 📊 Mis estadísticas de GitHub
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioSotelo5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioSotelo5&layout=compact&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioSotelo5&layout=compact&theme=default&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioSotelo5&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=IgnacioSotelo5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=IgnacioSotelo5&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=IgnacioSotelo5&theme=default&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IgnacioSotelo5&theme=default&hide_border=true" alt="GitHub Streak" />
+</picture>
 
 </div>
 
 ---
 
 ## 📫 ¡Hablemos!  
-
 <div align="center">
-
 Me encantaría conectar para oportunidades, colaboraciones o simplemente charlar de tecnología:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ignaciosotelo8)  
@@ -162,7 +160,6 @@ Me encantaría conectar para oportunidades, colaboraciones o simplemente charlar
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5492983588220)  
 
 **📞 +54 9 2983 588220**
-
 </div>
 
 ---
@@ -180,8 +177,11 @@ Me encantaría conectar para oportunidades, colaboraciones o simplemente charlar
 ### 👉 **¡Gracias por visitar mi perfil!** 
 *Siéntete libre de explorar mis repositorios y contactarme si tienes alguna pregunta u oportunidad.*
 
-![Footer Dark](https://capsule-render.vercel.app/api?type=wave&color=0:6366F1,100:8B5CF6&height=80&section=footer#gh-dark-mode-only)  
-![Footer Light](https://capsule-render.vercel.app/api?type=wave&color=0:6366F1,100:8B5CF6&height=80&section=footer#gh-light-mode-only)  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=wave&color=6366F1,:8B5CF6&height=80&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=wave&color=6366F1,:8B5CF6&height=80&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=6366F1,:8B5CF6&height=80&section=footer" alt="Footer"/>
+</picture>
 
 **💻 En constante aprendizaje y evolución como desarrollador**  
 *Actualizado: Agosto 2025*
