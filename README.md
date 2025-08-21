@@ -2,9 +2,10 @@
 
 <div align="center">
 
-![Header Dark](https://capsule-render.vercel.app/api?type=venom&color=0:6366F1,100:8B5CF6&height=150&section=header&text=Desarrollador%20Fullstack&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Apasionado%20·%20Autodidacta%20·%20Detallista&descAlignY=55&descSize=18#gh-dark-mode-only)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366F1,100:8B5CF6&height=150&section=header&text=Desarrollador%20Fullstack&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Apasionado%20·%20Autodidacta%20·%20Detallista&descAlignY=55&descSize=18#gh-dark-mode-only" />
 
-![Header Light](https://capsule-render.vercel.app/api?type=venom&color=0:6366F1,100:8B5CF6&height=150&section=header&text=Desarrollador%20Fullstack&fontSize=40&fontColor=000000&fontAlignY=35&desc=Apasionado%20·%20Autodidacta%20·%20Detallista&descAlignY=55&descSize=18#gh-light-mode-only)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366F1,100:8B5CF6&height=150&section=header&text=Desarrollador%20Fullstack&fontSize=40&fontColor=000000&fontAlignY=35&desc=Apasionado%20·%20Autodidacta%20·%20Detallista&descAlignY=55&descSize=18#gh-light-mode-only" />
+
 
 </div>
 
