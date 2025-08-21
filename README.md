@@ -2,7 +2,7 @@
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=8B5CF6&height=150&section=header&text=Desarrollador%20Fullstack&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Apasionado%20·%20Autodidacta%20·%20Detallista&descAlignY=55&descSize=18">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=6366F1&height=150&section=header&text=Desarrollador%20Fullstack&fontSize=35&fontColor=1F2937&desc=Apasionado%20·%20Autodidacta%20·%20Detallista&descSize=16">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=8B5CF6&height=150&section=header&text=Desarrollador%20Fullstack&fontSize=35&fontColor=1F2937&desc=Apasionado%20·%20Autodidacta%20·%20Detallista&descSize=16">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=6366F1,:8B5CF6&height=150&section=header&text=Desarrollador%20Fullstack&fontSize=35&fontColor=1F2937&desc=Apasionado%20·%20Autodidacta%20·%20Detallista&descSize=16" alt="Header"/>
 </picture>
 </div>
@@ -177,11 +177,7 @@ Me encantaría conectar para oportunidades, colaboraciones o simplemente charlar
 ### 👉 **¡Gracias por visitar mi perfil!** 
 *Siéntete libre de explorar mis repositorios y contactarme si tienes alguna pregunta u oportunidad.*
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=wave&color=6366F1,:8B5CF6&height=80&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=wave&color=6366F1,:8B5CF6&height=80&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=6366F1,:8B5CF6&height=80&section=footer" alt="Footer"/>
-</picture>
+![Footer](https://capsule-render.vercel.app/api?type=wave&color=0:6366F1,100:8B5CF6&height=80&section=footer)
 
 **💻 En constante aprendizaje y evolución como desarrollador**  
 *Actualizado: Agosto 2025*
