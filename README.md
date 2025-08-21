@@ -2,7 +2,9 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:6366F1,100:8B5CF6&height=150&section=header&text=Desarrollador%20Fullstack&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Apasionado%20·%20Autodidacta%20·%20Detallista&descAlignY=55&descSize=18)
+![Header Dark](https://capsule-render.vercel.app/api?type=venom&color=0:6366F1,100:8B5CF6&height=150&section=header&text=Desarrollador%20Fullstack&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Apasionado%20·%20Autodidacta%20·%20Detallista&descAlignY=55&descSize=18#gh-dark-mode-only)
+
+![Header Light](https://capsule-render.vercel.app/api?type=venom&color=0:6366F1,100:8B5CF6&height=150&section=header&text=Desarrollador%20Fullstack&fontSize=40&fontColor=000000&fontAlignY=35&desc=Apasionado%20·%20Autodidacta%20·%20Detallista&descAlignY=55&descSize=18#gh-light-mode-only)
 
 </div>
 
@@ -154,9 +156,9 @@ Solución para el negocio familiar que calcula costos de recetas y gestiona inve
 
 Me encantaría conectar para oportunidades, colaboraciones o simplemente charlar de tecnología:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ignaciosotelo8)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ignaciosotelo8@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5492983588220)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ignaciosotelo8)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ignaciosotelo8@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5492983588220)  
 
 **📞 +54 9 2983 588220**
 
@@ -177,7 +179,8 @@ Me encantaría conectar para oportunidades, colaboraciones o simplemente charlar
 ### 👉 **¡Gracias por visitar mi perfil!** 
 *Siéntete libre de explorar mis repositorios y contactarme si tienes alguna pregunta u oportunidad.*
 
-![Footer](https://capsule-render.vercel.app/api?type=wave&color=0:6366F1,100:8B5CF6&height=80&section=footer)
+![Footer Dark](https://capsule-render.vercel.app/api?type=wave&color=0:6366F1,100:8B5CF6&height=80&section=footer#gh-dark-mode-only)  
+![Footer Light](https://capsule-render.vercel.app/api?type=wave&color=0:6366F1,100:8B5CF6&height=80&section=footer#gh-light-mode-only)  
 
 **💻 En constante aprendizaje y evolución como desarrollador**  
 *Actualizado: Agosto 2025*
