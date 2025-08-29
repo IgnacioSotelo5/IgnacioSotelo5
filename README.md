@@ -95,7 +95,7 @@ Solución para el negocio familiar que calcula costos de recetas y gestiona inve
 
 <td width="33%">
 
-### 🥐 [Generador de commits inteligente](https://github.com/IgnacioSotelo5/commit-genius-frontend)  
+### 🧠 [Generador de commits inteligente](https://github.com/IgnacioSotelo5/commit-genius-frontend)  
 Generador de mensajes de commit impulsado por IA que transforma un git diff en mensajes de commit claros y descriptivos con un solo clic.
 
 **🛠️ Tecnologías:** React, Elysia, Groq API  
