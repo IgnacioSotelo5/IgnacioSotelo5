@@ -68,7 +68,7 @@ Soy un desarrollador fullstack con enfoque en crear soluciones robustas. Curioso
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🔗 [Dynamic Slug - Acortador de Enlaces](https://github.com/IgnacioSotelo5/dynamic-slug)  
 Aplicación fullstack para crear enlaces personalizados y generar códigos QR. Arquitectura monorepo con frontend y backend integrados.
@@ -79,7 +79,7 @@ Aplicación fullstack para crear enlaces personalizados y generar códigos QR. A
 ![Link Shortener](https://img.shields.io/badge/Status-Completado-success?style=flat-square)
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 🥐 [Gestor para Panaderías](https://github.com/IgnacioSotelo5/management-react-native)  
 Solución para el negocio familiar que calcula costos de recetas y gestiona inventario. Sistema completo con backend robusto.
@@ -90,6 +90,20 @@ Solución para el negocio familiar que calcula costos de recetas y gestiona inve
 *💡 Mi motivación: Crear herramientas que solucionen problemas reales*
 
 ![Bakery App](https://img.shields.io/badge/Status-En%20desarrollo-yellow?style=flat-square)
+
+</td>
+
+<td width="33%">
+
+### 🥐 [Generador de commits inteligente](https://github.com/IgnacioSotelo5/commit-genius-frontend)  
+Generador de mensajes de commit impulsado por IA que transforma un git diff en mensajes de commit claros y descriptivos con un solo clic.
+
+**🛠️ Tecnologías:** React, Elysia, Groq API  
+**📂 Backend:** [commit-genius-backend](https://github.com/IgnacioSotelo5/commit-genius-backend)
+
+*💡 Mi objetivo: Crear herramientas que integren IA para solucionar problemas cotidianos.*
+
+![Commit genius](https://img.shields.io/badge/Status-Completado-success?style=flat-squar)
 
 </td>
 </tr>
